@@ -88,7 +88,7 @@
 
 将对象的创建与使用分离，降低系统的耦合度。使用者无需关注对象创建的细节
 
-#### [单例模式：](https://markdown.com.cn)
+#### [单例模式：](https://github.com/dearcandy/design-patterns/tree/master/src/main/java/com/design/patterns/creation/singleton)
 
 ##### 使用场景：
 
