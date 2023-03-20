@@ -6,7 +6,7 @@ import org.springframework.stereotype.Service;
 import javax.annotation.Resource;
 
 /**
- * 注册增强观察者
+ * 注册体验劵发放观察者
  *
  * @author liuhangfei
  * @date 2023/03/20 10:30
