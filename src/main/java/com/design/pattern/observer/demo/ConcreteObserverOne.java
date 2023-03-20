@@ -12,6 +12,6 @@ public class ConcreteObserverOne implements Observer{
      */
     public void update(Message message) {
         String content = message.getContent();
-        System.out.println("ConcreteObserverTwo getMessage ： " + content);
+        System.out.println("ConcreteObserverOne getMessage ： " + content);
     }
 }
