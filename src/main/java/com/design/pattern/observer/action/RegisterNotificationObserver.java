@@ -1,4 +1,4 @@
-package com.design.pattern.observer.eventbus;
+package com.design.pattern.observer.action;
 
 import com.google.common.eventbus.Subscribe;
 import org.springframework.stereotype.Service;

@@ -1,4 +1,4 @@
-package com.design.pattern.observer.eventbus;
+package com.design.pattern.observer.action;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;

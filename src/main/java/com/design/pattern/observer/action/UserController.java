@@ -1,4 +1,4 @@
-package com.design.pattern.observer.eventbus;
+package com.design.pattern.observer.action;
 
 import com.google.common.eventbus.EventBus;
 import lombok.extern.slf4j.Slf4j;
@@ -9,7 +9,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import javax.annotation.PostConstruct;
 import javax.annotation.Resource;
-import java.util.List;
 
 /**
  * 用户服务
