@@ -1,4 +1,4 @@
-package com.design.reaction.virtualwallet.domain;
+package com.design.action.virtualwallet.domain;
 
 import lombok.Data;
 import java.math.BigDecimal;

@@ -1,4 +1,4 @@
-package com.design.reaction.virtualwallet.domain;
+package com.design.action.virtualwallet.domain;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

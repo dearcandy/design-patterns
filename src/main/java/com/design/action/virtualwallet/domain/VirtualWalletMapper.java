@@ -1,4 +1,4 @@
-package com.design.reaction.virtualwallet.domain;
+package com.design.action.virtualwallet.domain;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import org.apache.ibatis.annotations.Mapper;
